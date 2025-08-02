@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: "Montserrat", sans-serif;
+}
+
+h1{
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
